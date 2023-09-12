@@ -5,7 +5,7 @@ This is a simple implementation of Conway's Game of Life in C++ using SDL2.
 ## Prerequisites
 
 * C++ compiler (clang++, with C++20 is used in this project)
-* SDL2 (https:/https://github.com/libsdl-org/SDL/releases) 
+* SDL2 (https://github.com/libsdl-org/SDL/releases) 
 
 > Note: You can install SDL2 using Homebrew on macOS: `brew install sdl2`. Follow the instructions on the SDL2 website for other platforms.
 
